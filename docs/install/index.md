@@ -69,6 +69,9 @@ Content contained on external links is not managed or maintained by the Actual B
 - [Google Cloud Run (serverless)](https://github.com/daniefdz/actual-run)
 - [Home Assistant](https://github.com/sztupy/hassio-actualbudget/blob/main/README.md)
 - [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/scripts?id=actualbudget)
+- Syncloud - a server OS for a Raspberry Pi, a spare PC or a VPS, which installs Actual from an app store
+  - [Actual Budget on Syncloud](https://syncloud.org/en/actual-budget)
+  - [Setting up a device](https://syncloud.org/setup)
 - Synology NAS
   - [Marius Bogdan Lixandru's guide](https://mariushosting.com/how-to-install-actual-on-your-synology-nas/)
   - [Adam Millerchip's guide](https://adamu.jp/blog/actual_budget_nas)
